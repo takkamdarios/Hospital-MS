@@ -28,3 +28,4 @@ __There are 5 Major Entities__<br>
 # E-R Diagram
 <br>
 ![image](https://user-images.githubusercontent.com/53516925/206005736-a000e99e-7b9f-4719-a2e1-0a7390b3d635.png)
+[Untitled.pdf](https://github.com/takkamdarios/Hospital-MS/files/10169807/Untitled.pdf)
