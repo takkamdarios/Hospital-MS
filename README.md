@@ -30,3 +30,7 @@ __There are 5 Major Entities__<br>
 
 ![image](https://user-images.githubusercontent.com/53516925/206005736-a000e99e-7b9f-4719-a2e1-0a7390b3d635.png)
 
+# Cas D'utilisation
+<br>
+![image](https://user-images.githubusercontent.com/53516925/206564637-d39378b3-3c9e-4e41-88b0-927d51ada159.png)
+
