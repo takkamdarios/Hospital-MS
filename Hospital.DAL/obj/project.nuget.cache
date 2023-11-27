@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQ5yWsZMs63bzubJWHsw2YY17JbXSFAuUXcd2UH07NmQPuOBeKRxjy172ESdqDZMuYILd2NAPUTrJ0ktBuTwIw==",
+  "dgSpecHash": "GOtraJ7kCI0iWlG3j8EqRSZC2VvZ99B2gEXAwt7Q2in5oRrcFIv5UyG9/H+Hnnl4WgY1o8p9MBIZLujrAdUoKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuc\\Desktop\\Darios\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
+  "projectFilePath": "D:\\Hospital-MS\\Hospital.DAL\\Hospital.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

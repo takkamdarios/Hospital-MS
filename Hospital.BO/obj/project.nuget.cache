@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IuLUS3t15WoQk56NehbsFicsKFsVQZKObuSRD/44OVM4q9CtkoH9naef3J+t2/0ygT6KF+NV+gENjFiM6eDDdQ==",
+  "dgSpecHash": "ex6qGiKbbB67ABboVLihAUlJFyYH24CkEx0McwJyID3iSWKKTdhfKCbuvMj89qvxFVaoTFeGQEgYVlRIO9edCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuc\\Desktop\\Darios\\Hospital\\Hospital.BO\\Hospital.BO.csproj",
+  "projectFilePath": "D:\\Hospital-MS\\Hospital.BO\\Hospital.BO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

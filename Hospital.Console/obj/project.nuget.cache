@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkb5NZvfrL6XK+wC8rVpjLSPG1JpFW8qwLj0LZk4d/gg7GXn7Hfkon2nvpGQzCVE4TrVUPkoBE84dd1ZdeTuLw==",
+  "dgSpecHash": "8eat2BrIuZKgGCTOBfit+NRh3zEA+iJv34G4H40anh2++aiv1JOdOBE9enuFtT+OgfslMMx21t7In/a5ywmePg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nuc\\Desktop\\Darios\\Hospital\\Hospital.Console\\Hospital.Console.csproj",
+  "projectFilePath": "D:\\Hospital-MS\\Hospital.Console\\Hospital.Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
